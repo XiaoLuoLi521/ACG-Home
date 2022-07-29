@@ -214,8 +214,8 @@ h1 {
 #aside_content .card-info img {
     display: inline-block;
     padding: 5px;
-    width: 120px;
-    height: 120px;
+    /* width: 120px;
+    height: 120px; */
     border-radius: 70px;
     vertical-align: top;
     transition: all .3s;
